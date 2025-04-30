@@ -1,0 +1,12 @@
+
+{
+  "manifest_version": 3,
+  "name": "Text Case Converter",
+  "version": "1.0",
+  "description": "Convert text to different cases",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Text Case Converter"
+  },
+  "permissions": ["clipboardWrite"]
+}
